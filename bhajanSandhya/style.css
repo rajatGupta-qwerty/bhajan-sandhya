@@ -1,0 +1,55 @@
+.h1{
+    background-color: cornflowerblue;
+    text-align: center;
+    font-size: 20px;
+   font-family: cursive;
+   color: blue;
+
+}
+.h100{
+ font-size: 40px;color: darkblue;background-color: lightblue;
+ text-decoration:underline; 
+ text-decoration-color:rgb(252, 255, 255) ;
+ font-family:'Georgia';
+ 
+}
+a.h120:visited{
+color: rgb(252, 255, 255);
+}
+a.h120:link{
+    color: rgb(252, 255, 255);
+    }
+.h2{
+    background-color: rgb(228, 48, 3);
+    
+    font-size: 30px;
+   font-family: arial;
+   color: rgb(253, 186, 0);
+
+   
+}
+h2{
+    text-align: center;
+    font-size: 70px;
+    color: rebeccapurple;
+    background-color: rgb(252, 255, 255);
+    font-family: Comic ;
+}
+.h3{
+    background-color: rgb(228, 48, 3);
+    text-align: center;
+    font-size: 40px;
+   font-family: arial;
+   color: rgb(253, 186, 0);
+
+}
+body{
+    background-color: aqua;
+}
+h1{
+    color: cornsilk;
+    background-color: crimson;
+    text-decoration: underline;
+    text-decoration-color: lightgoldenrodyellow;
+    text-align: center;font-size: 40px;
+}
